@@ -1,5 +1,6 @@
 package mypack;
 
+//here also make some changes
 public class LinkNode {
 	Stud data;
 	LinkNode next;
